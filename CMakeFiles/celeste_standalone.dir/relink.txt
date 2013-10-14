@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3    CMakeFiles/celeste_standalone.dir/Main.o  -o CMakeFiles/CMakeRelink.dir/celeste_standalone  -L/home/tnugent/Src/celeste -rdynamic libceleste.a -lhuginbase 

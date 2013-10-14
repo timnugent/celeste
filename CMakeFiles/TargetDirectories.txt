@@ -1,0 +1,2 @@
+/home/tnugent/Src/celeste/CMakeFiles/celeste.dir
+/home/tnugent/Src/celeste/CMakeFiles/celeste_standalone.dir
