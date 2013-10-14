@@ -13,6 +13,13 @@ Alternatively, you can modify the Makefile and link to the appropriate libraries
 
 To re-train the support vector machine model, please see the README and scripts in the training directory.
 
+Usage
+-----
+
+See the tutorial here:
+
+http://ultrawide.wordpress.com/2008/11/12/using-celeste/
+
 Help
 ----
 
