@@ -7,7 +7,7 @@ Identify clouds in images using support vector machines for enhanced panoramic s
 
 This repository contains code originally written during Google Summer of Code 2008. It is now tightly integrated with the Hugin code base so to compile it I would recommend checking out Hugin via mecurial from here:
 
-hg clone http://hg.code.sf.net/p/hugin/hugin hugin-hugin
+hg clone http://hg.code.sf.net/p/hugin/hugin hugin.hg
 
 Alternatively, you can modify the Makefile and link to the appropriate libraries.
 
